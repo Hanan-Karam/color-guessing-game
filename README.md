@@ -1,4 +1,4 @@
-# Color Guessing Game
+# Color Guessing Game In Javascript
 
 Fun game to guess the color via its RGB values
 
